@@ -1,0 +1,5 @@
+{
+  "name": "AI Expense Tracker",
+  "description": "An intelligent expense tracker that automatically categorizes your spending using Gemini AI, providing insightful summaries and visualizations of your financial habits.",
+  "requestFramePermissions": []
+}
